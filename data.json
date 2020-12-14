@@ -2,13 +2,13 @@
     "1":{
         "title":"TastickOJ",
         "subtitle":"基于python的轻巧OJ",
-        "link":"tastickoj",
+        "link":"products/tastickoj.htm",
         "img":"static/img/tastickoj.png"
     },
     "2":{
         "title":"小神AI自动回复系统",
         "subtitle":"轻量、可改造、人性化",
-        "link":"xiaoshen",
+        "link":"products/xiaoshen.htm",
         "img":"static/img/xiaoshen.png"
     }
 }
