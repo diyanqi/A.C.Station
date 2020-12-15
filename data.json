@@ -17,7 +17,7 @@
         "title":"A.C.新官网试运行",
         "subtitle":"2020年12月15日·正式上线<br>A.C.·代码重构",
         "link":"stationInfo/newStation.htm",
-        "img":"static/img/A.C.Station.png",
+        "img":"https://cdn.w3cbus.com/mdui.org/docs/assets/docs/img/card.jpg",
         "type":"stationInfo"
     }
 }
