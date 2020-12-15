@@ -19,5 +19,12 @@
         "link":"stationInfo/newStation.htm",
         "img":"https://kn-cdn.codemao.cn/wood/image/r1X9rWInw.png",
         "type":"stationInfo"
+    },
+    "4":{
+        "title":"A.C. on B Station",
+        "subtitle":"B站官方帐号",
+        "link":"https://space.bilibili.com/504293988",
+        "img":"https://imgres.iefans.net/iefans/51/251232-202007170240395f109f27437f8.jpg",
+        "type":"stationInfo"
     }
 }
