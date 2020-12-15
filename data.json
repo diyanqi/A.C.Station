@@ -3,12 +3,21 @@
         "title":"TastickOJ",
         "subtitle":"基于python的轻巧OJ",
         "link":"products/tastickoj.htm",
-        "img":"static/img/tastickoj.png"
+        "img":"static/img/tastickoj.png",
+        "type":"products"
     },
     "2":{
         "title":"小神AI自动回复系统",
         "subtitle":"轻量、可改造、人性化",
         "link":"products/xiaoshen.htm",
-        "img":"static/img/xiaoshen.png"
+        "img":"static/img/xiaoshen.png",
+        "type":"products"
+    },
+    "3":{
+        "title":"A.C.新官网试运行",
+        "subtitle":"2020年12月15日·正式上线<br>A.C.·代码重构",
+        "link":"stationInfo/newStation.htm",
+        "img":"static/img/A.C.Station.png",
+        "type":"stationInfo"
     }
 }
